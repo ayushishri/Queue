@@ -19,3 +19,7 @@ class queue:
 			return True
 		return False
 
+	def printQ(self):
+		print self.store
+		return 0
+
